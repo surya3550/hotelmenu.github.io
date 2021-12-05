@@ -1,0 +1,21 @@
+/* Navigation */
+
+/* Home section */
+#home{
+
+}
+/* Services */
+#services{
+
+}
+#services .box{
+flex-direction: column;
+}
+/* client section */
+
+/* Contact */
+
+/* footer */
+.body{
+    background-color: brown;
+}
